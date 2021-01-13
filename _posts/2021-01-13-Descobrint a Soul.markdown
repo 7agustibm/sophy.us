@@ -49,9 +49,13 @@ La pel-lícula ens fa veure que **l'espurna de la vida és les ganes de viure**.
 
 Acabem l'entrada amb el conte que explica la Dorothea al Joe, després que aquest li comenta que allò que anhelava tant, quan l'ha viscut, no s'ha sentit com imaginava:
 
-"Un peix s'apropa a un peix més gran, i li diu:\
-- Estic buscant una cosa que en diuen oceà.\
-- L'oceà? -diu el peix més gran- Ja hi ets a l'oceà. - Això? -pregunta el petit- Això és aigua. El que vull és l'oceà."
+```
+Un peix s'apropa a un peix més gran, i li diu:
+- Estic buscant una cosa que en diuen oceà.
+- L'oceà? -diu el peix més gran- Ja hi ets a l'oceà
+- Això? -pregunta el petit
+- Això és aigua. El que vull és l'oceà.
+```
 
 Esperem trobar la felicitat quan ja tenim motius per ser feliços. **Viure és un motiu de felicitat**.
 
