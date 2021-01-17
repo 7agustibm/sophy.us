@@ -1,0 +1,22 @@
+@import "bulma/bulma";
+ //Core variables and mixins
+@import "variables";
+@import "mixins";
+// Global CSS
+@import "global";
+// Components
+@import "navbar";
+@import "masthead";
+@import "services";
+@import "portfolio";
+@import "timeline";
+@import "team";
+@import "contact";
+@import "footer";
+
+#header-landingpage {
+  background-image: url("../img/header-bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+}

@@ -1,0 +1,36 @@
+<nav class="navbar is-fixed-top" id="mainNav">
+    <div class="navbar-brand">
+        <a class="navbar-item" href="{% if page.url == "/index.html" %}#page-top{% else %}/{% endif %}">
+        Sophy.us
+<!--            <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">-->
+        </a>
+
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+    </div>
+    {% if page.url == "/index.html" %}
+    <div class="navbar-menu">
+        <div class="navbar-start">
+            <a class="navbar-item" href="#principis">Principis</a>
+            <a class="navbar-item" href="#portfolio">Properes activitats</a>
+        </div>
+    </div>
+    {% endif %}
+    <div class="navbar-end">
+        <a class="navbar-item{% if page.url == "/blog.html" %} is-active{% endif %}" href="/blog">Blog</a>
+        <a class="navbar-item" href="https://www.meetup.com/es-ES/Sophy-us">Comunitat</a>
+    </div>
+<!--            <div class="container">-->
+<!--        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">-->
+<!--            <i class="fa fa-bars"></i>-->
+<!--        </button>-->
+<!--        <div class="collapse navbar-collapse" id="navbarResponsive">-->
+<!--            <ul class="navbar-nav text-uppercase ml-auto">-->
+<!--                -->
+<!--            </ul>-->
+<!--        </div>-->
+<!--    </div>-->
+</nav>

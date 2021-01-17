@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Descobrint a Soul"
+description: "Soul ens explica la història d'en Joe Gardner, un professor de música d'institut que rep, per fi, l'oportunitatque tant havia esperat: tocar a la millor banda de jazz de la ciutat. Però, malauradament, es veu emportat al Més Enllà i negant-se a la seva nova realitat acaba al Més Abans, el lloc on les ànimes reben la seva personalitat, singularitats i característiques abans d'anar a la Terra. Amb aquesta aventura, en Joe troba respostes a les preguntes més importants de la seva vida i troba el significat de **l'espurna de la vida**."
 date:   2021-01-13 13:14:43 +0100
 categories: jekyll update
+thumbnail: "assets/post/soul/soul.jpeg"
 ---
 
 ## Les lliçons a aprendre de la pel·lícula SOUL
